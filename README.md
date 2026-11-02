@@ -36,11 +36,11 @@ Research publications and key technologies from the **IITP Starlab** project.
 
 ## Publications
 
-| Paper | Technical Focus | Repository |
-| --- | --- | --- |
-| **Neural Face Skinning for Mesh-agnostic Facial Expression Cloning** | Transfer facial expressions across meshes with different shapes and structures using learned skinning weights. | [NFS](https://github.com/chacorp/NFS) |
-| **FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields** | Edit facial features in neural radiance fields using a small number of examples. | [FFaceNeRF](https://github.com/kwanyun/FFaceNeRF) |
-| **StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image Translation** | Generate aligned stylized face images. The linked repository provides the EAS module of StyleMM. | [EAS](https://github.com/kwanyun/EAS) |
-| **Deep-Learning-Based Facial Retargeting Using Local Patches** | Transfer facial performance from video to stylized 3D characters through local patch processing. | [DFL](https://github.com/LiyCg/DFL) |
-| **StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition** | Measure facial identity similarity across visual styles using stylization-robust embeddings. | [StyleID](https://github.com/kwanyun/StyleID) |
-| **AnyTalk: Speech Animation for Arbitrary Characters Leveraging a Video Generation Model** | Animate characters from speech. The linked repository provides character-specific fine-tuning and temporal inference. | [AnyTalk_CsF](https://github.com/kwanyun/AnyTalk_CsF) |
+| Paper | Venue / Year | Technical Focus | Repository |
+| --- | --- | --- | --- |
+| **Neural Face Skinning for Mesh-agnostic Facial Expression Cloning** | Eurographics 2025 / [Computer Graphics Forum (CGF)](https://doi.org/10.1111/cgf.70009) | Transfer facial expressions across meshes with different shapes and structures using learned skinning weights. | [NFS](https://github.com/chacorp/NFS) |
+| **FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields** | [CVPR 2025](https://kwanyun.github.io/FFaceNeRF_page/) | Edit facial features in neural radiance fields using a small number of examples. | [FFaceNeRF](https://github.com/kwanyun/FFaceNeRF) |
+| **StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image Translation** | Pacific Graphics 2025 (Journal Track) / [Computer Graphics Forum (CGF)](https://doi.org/10.1111/cgf.70234) | Generate aligned stylized face images. The linked repository provides the EAS module of StyleMM. | [EAS](https://github.com/kwanyun/EAS) |
+| **Deep-Learning-Based Facial Retargeting Using Local Patches** | Eurographics 2025 / [Computer Graphics Forum (CGF), 2025](https://doi.org/10.1111/cgf.15263) | Transfer facial performance from video to stylized 3D characters through local patch processing. | [DFL](https://github.com/LiyCg/DFL) |
+| **StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition** | SIGGRAPH 2026 (Journal Track) / [ACM Transactions on Graphics (TOG)](https://doi.org/10.1145/3811360) | Measure facial identity similarity across visual styles using stylization-robust embeddings. | [StyleID](https://github.com/kwanyun/StyleID) |
+| **AnyTalk: Speech Animation for Arbitrary Characters Leveraging a Video Generation Model** | [IEEE Transactions on Visualization and Computer Graphics (TVCG), 2026](https://doi.org/10.1109/TVCG.2026.3725254) | Animate characters from speech. The linked repository provides character-specific fine-tuning and temporal inference. | [AnyTalk_CsF](https://github.com/kwanyun/AnyTalk_CsF) |
