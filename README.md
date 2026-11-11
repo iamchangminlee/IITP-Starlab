@@ -36,7 +36,7 @@ Research publications and key technologies from the **IITP Starlab** project.
 
 ### 5. Multilingual Audio-driven Lip Motion Generation Robust to Speaking Rate
 
-**LSE-D ↓: 6.5 → 5.89 / LSE-C↑: 8.0 → 8.23 with 15 languages** · [Github](https://github.com/HyeonhoNa/Multilingual-Speech-driven-Lip-Motion-Generation-Robust-to-Speaking-Rate)
+**LSE-D ↓: 6.50 → 5.89 / LSE-C ↑: 8.00 → 8.23 (with 15 languages)** · [Github](https://github.com/HyeonhoNa/Multilingual-Speech-driven-Lip-Motion-Generation-Robust-to-Speaking-Rate)
 
 - Extracted abstract speech features from 7+ languages using a pre-trained wav2vec 2.0 model for lip motion generation.
 - Applied an adaptive window to speech feature extraction, enabling speaking-rate-agnostic lip motion generation for 3D human face models.
